@@ -1,8 +1,7 @@
 # CPS688 – Advanced Algorithms
 
 **Course:** CPS688 – Advanced Algorithms  
-**Institution:** Toronto Metropolitan University  
-**Term:** 2025  
+**Institution:** Toronto Metropolitan University   
 **Type:** Theory-based (No Labs)  
 
 ---
