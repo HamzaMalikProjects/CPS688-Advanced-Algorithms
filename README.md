@@ -30,4 +30,16 @@ CPS688 focuses on advanced algorithmic techniques with a strong engineering and 
 
 This repository contains reference material, handwritten notes, and practice resources used throughout the course:
 
+---
+
+## ⚠️ Academic Integrity
+
+All work in this repository complies with [Toronto Metropolitan University’s Senate Policy 60 – Academic Integrity](https://www.torontomu.ca/senate/policies/pol60.pdf).  
+These notes are original, created solely for academic purposes, and reflect ethical academic conduct.
+
+**Students currently enrolled in this course are expected to strictly follow Policy 60.**  
+Use of this material should support learning and not violate course or institutional academic integrity standards.
+
+---
+
 © 2024 Hamza Malik
